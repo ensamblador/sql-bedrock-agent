@@ -1,0 +1,6 @@
+aws-cdk-lib==2.161.1
+constructs>=10.0.0,<11.0.0
+boto3
+langchain 
+langchain-community
+langchain-aws
